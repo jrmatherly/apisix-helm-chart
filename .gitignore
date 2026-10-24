@@ -3,3 +3,7 @@
 .DS_Store
 test_**.yaml
 .history
+.codegraph/
+.remember/
+private/
+
